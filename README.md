@@ -1,4 +1,7 @@
 # EDA-ON-NETFLIX-DATA-SET
+
+Exploratory data analysis is done on netflix dataset 
+
 DATA DESCRIPTION : netflix data <br>
 show_id - Unique ID for every Movie/TV Show.<br>
 type - Type of Content: Movie/TV Show.<br>
